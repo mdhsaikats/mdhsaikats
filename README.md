@@ -32,6 +32,7 @@ NightOwl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdhsaikats&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mdhsaikats&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhsaikats&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="mdhsaikats's GitHub Stats" />
 </p>
 
 ## 📫 Connect With Me
