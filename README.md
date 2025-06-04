@@ -1,13 +1,18 @@
-# 👋 Hello World, I'm [Your Name]!
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Ssikat Banner" />
+</p>
+
+
+# 👋 Hello World, I'm Saikat !
 
 Welcome to my corner of GitHub — where creativity meets code.
-
+NightOwl
 ## 💡 About Me
 
-- 🎯 Passionate about building useful tools, creative UIs, and impactful software
-- 👨‍💻 Currently working with **[your current tech stack]**
-- 🧠 Always learning new things – currently diving into **[learning topic]**
-- 🌱 Love contributing to open-source and helping others grow
+- 🎯 Passionate about building useful tools, creative UIs, and impactful software  
+- 👨‍💻 Currently working on few new projects  
+- 🧠 Always learning new things – currently diving into JavaScript  
+- 🌱 Love contributing to open-source and helping others grow  
 
 ## 🛠️ Tech Stack
 
@@ -25,18 +30,15 @@ Welcome to my corner of GitHub — where creativity meets code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhsaikats&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdhsaikats&theme=radical" width="48%" />
 </p>
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINK/)
-- 🐦 [Twitter](https://twitter.com/YOUR_HANDLE)
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saikat-sikder-708bb7218/)
 
 ---
 
 ⭐ *Thanks for stopping by! Don’t forget to leave a ⭐ on any project you find interesting!*
-
 
