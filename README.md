@@ -69,12 +69,12 @@ I like understanding how things work under the hood—from designing clean APIs 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdhsaikats&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdhsaikats&layout=compact&hide_border=true&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhsaikats&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhsaikats&layout=compact&hide_border=true&theme=github_dark" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhsaikats&theme=github-dark-blue&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=mdhsaikats&theme=github-dark-blue&hide_border=true" height="180" />
 </p>
 
 ## 🌐 Connect With Me
